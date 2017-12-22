@@ -1,0 +1,9 @@
+c:\users\snigo\source\repos\Baies\Baies\bin\Release\Baies.exe.config
+c:\users\snigo\source\repos\Baies\Baies\bin\Release\Baies.exe
+c:\users\snigo\source\repos\Baies\Baies\bin\Release\Baies.pdb
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.Form1.resources
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.Properties.Resources.resources
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.csproj.GenerateResource.Cache
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.csproj.CoreCompileInputs.cache
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.exe
+c:\users\snigo\source\repos\Baies\Baies\obj\Release\Baies.pdb
